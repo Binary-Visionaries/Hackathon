@@ -29,5 +29,5 @@
     <li>Current ACtivity</li>
     <li>List of the most X recent activities</li>
     <li>Dictionary pf TODOs on number of sessions</li>
-  </ul>/li>
+  </ul></li>
 </ul>
